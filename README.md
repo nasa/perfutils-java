@@ -8,11 +8,11 @@ See CPM\ Users\ Guide.docx for more information.
 
 ## Release Notes
 
-perfutils-java version 1.0.0a is released as part of cFE 6.6.0a under the Apache 2.0 license, see [LICENSE](LICENSE-18128-Apache-2_0.pdf).
+perfutils-java version 1.0.0a release is pending.
 
 ## Known issues
 
-This version is the open source release from cFE 6.6.0a, and has known compatibility issues.  The expectation is this repo will be updated once through the release processes.  Contact the community below for more information.
+This version has known compatibility issues.  The expectation is this repo will be updated once through the release processes.  Contact the community below for more information.
 
 ## Getting Help
 
